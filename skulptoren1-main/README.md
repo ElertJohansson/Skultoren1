@@ -1,2 +1,0 @@
-# skulptoren
-Skulptören.
